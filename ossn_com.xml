@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Hidden</name>
+    <id>hidden</id>
+    <author>Yanick Beaulieu</author>
+    <description>Composant pour cacher plusieurs contenus sur les profils.</description>
+    <version>1.0</version>
+    <requires>
+        <type>ossn_version</type>
+        <version>7.0</version>
+    </requires>
+</component>
